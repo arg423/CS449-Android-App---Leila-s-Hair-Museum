@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Leila\'s Hair Museum : History</string>
+    <string name="action_settings">Home</string>
+    <string name="title_activity_item_display">item_display</string>
+    <string name="title_activity_search">search</string>
+    <string name="title_activity_about_leila">about_leila</string>
+    <string name="title_activity_museum_info">museum_info</string>
+</resources>

@@ -1,0 +1,2 @@
+get the data from the website (just place file in the directory, information is hidden from web users)
+use json or something to pull the file info from the webpage
